@@ -6,7 +6,7 @@ on:
       - '**.jpg'
       - '**.jpeg'
       - '**.png'
-      - '**.gif'
+      - '**.mp4'
 
 jobs:
   post-images:
